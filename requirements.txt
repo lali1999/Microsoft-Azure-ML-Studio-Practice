@@ -1,0 +1,5 @@
+Firstly, you will have to install azureml-core
+
+### pip isntall azureml-core
+
+You will get access to all the assets of the Azure portal. It will create an Azure ML environent on your local computer which will help you to work on Azure platform by coding using python Script.
