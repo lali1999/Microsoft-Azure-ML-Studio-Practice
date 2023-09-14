@@ -1,4 +1,4 @@
-# Microsoft-Azure-ML-Studio-Practice
+# Microsoft-Azure-ML-Studio-Practice using Azure SDK
 Created, Workspace, Datastores, Datasets and more. I am simply getting my hands-on done using Azure ML SDK.
 
 
